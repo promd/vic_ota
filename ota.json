@@ -1,0 +1,12 @@
+[
+    {
+        "version": "0.1.0-alpha",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/vic3/full/0.1.0-alpha.bin",
+        "comment": "select for inital update"
+    },
+    {
+        "version": "0.1.1-alpha",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/vic3/full/0.1.1-alpha.bin",
+        "comment": "select for inital update"
+    }
+]
