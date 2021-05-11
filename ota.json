@@ -8,5 +8,15 @@
         "version": "0.1.1-alpha2",
         "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_Release_v0.1.1-alpha2_21-02-24.bin",
         "comment": "Initial release of PMS1. Same as and interchangeable with 0.1.1-alpha1"
+    },
+    {
+        "version": "0.1.4-alpha1",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_ReleaseConsole_v0.1.4-alpha1_21-05-10.bin",
+        "comment": "BLE use test candidate 1. Same as and interchangeable with 0.1.4-alpha2"
+    },
+    {
+        "version": "0.1.4-alpha2",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_ReleaseConsole_v0.1.4-alpha2_21-05-10.bin",
+        "comment": "BLE use test candidate 1. Same as and interchangeable with 0.1.4-alpha1"
     }
 ]
