@@ -1,5 +1,15 @@
 [
     {
+        "version": "0.1.6-alpha1",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_ReleaseConsole_v0.1.6-alpha1_21-06-02.bin",
+        "comment": "Fixes of bugs identified in the previous sprint, bonding turned off."
+    },
+    {
+        "version": "0.1.6-alpha2",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_ReleaseConsole_v0.1.6-alpha2_21-06-02.bin",
+        "comment": "Fixes of bugs identified in the previous sprint, bonding turned off."
+    },
+    {
         "version": "0.1.1-alpha1",
         "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_Release_v0.1.1-alpha1_21-02-24.bin",
         "comment": "Initial release of PMS1. Same as and interchangeable with 0.1.1-alpha2"
