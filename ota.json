@@ -1,5 +1,10 @@
 [
     {
+        "version": "0.1.8-novtest",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/victoria_3_ReleaseConsole_v0.1.8-novtest_21-10-01.bin",
+        "comment": "Release candidate 1 for november test, bonding turned on."
+    },
+    {
         "version": "0.1.6-alpha1",
         "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_ReleaseConsole_v0.1.6-alpha1_21-06-02.bin",
         "comment": "Fixes of bugs identified in the previous sprint, bonding turned off."
