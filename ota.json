@@ -1,12 +1,12 @@
 [
     {
+        "version": "1.0.0",
+        "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_OTA_for_App_team_v1.0.0_22-06-23.bin",
+        "comment": "Pre series 2 release for developement."
+    },
+    {
         "version": "0.1.12",
         "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_ReleaseConsole_v0.1.12_21-12-13.bin",
         "comment": "Pre series 1 release for developement."
-    },
-    {
-        "version": "0.1.10-novtest-r2",
-        "url": "https://fw.iot-dev.alchemy.codes/braun/victoria/full/Victoria_3_ReleaseConsole_v0.1.10-novtest-r2_21-10-28.bin",
-        "comment": "Release candidate 2 for november test, with bug fixes."
     }
 ]
